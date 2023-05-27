@@ -1,0 +1,58 @@
+p {
+    font-size: 100px;
+}
+
+.wrap{
+    background-color: grey;
+    padding: 20px;
+    border: auto;
+    width: 80%;
+}
+
+.header{
+    color: white;
+    background-color: magenta;
+    border: 3px solid yellow;
+    height: 178px;
+    text-align: center;
+    background-image: url(image/top\ up.jpg);
+}
+
+.topmenu{
+    background-color: red;
+    border: 3px solid yellow;
+    height: 60px;
+    text-align: center;
+}
+
+.content{
+    height: 700px;
+    float: right;
+    width: 76%;
+    text-align: center;
+    background-image: url(image/joki.jpg);
+}      
+
+.content img{
+    width: 1200px;
+    height: 666px;
+}
+.header img{
+    width: 90%;
+    height: 90%;
+}
+.sidemenu{
+    background-color: rgb(245, 0, 0);
+    height: 700px;
+    float: left;
+    width: 24%;   
+    font-size: larger;
+}
+
+.footer{
+    background-color: gold;
+    border: 3px solid yellow;
+    height: 70px;
+    clear: both;
+    text-align: center;
+}
